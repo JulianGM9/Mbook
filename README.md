@@ -1,3 +1,9 @@
 # Mbook
 
-test i am soeren ejasb
+#<<<<<<< soerens_chapter
+#test i am soeren ejasb
+#=======
+
+
+#whats up my friends
+#>>>>>>> main
